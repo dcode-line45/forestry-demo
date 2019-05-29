@@ -8,3 +8,8 @@ banner_image: ''
 related_posts: []
 
 ---
+Welcome to my test post.
+
+**Formatting test.**
+
+> Another formatting test.
