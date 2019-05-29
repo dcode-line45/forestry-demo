@@ -40,4 +40,3 @@ fields:
   default: post
 pages:
 - _posts/2019-05-29-a-test-post.md
-- _posts/blah.md
